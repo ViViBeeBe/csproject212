@@ -1,0 +1,14 @@
+.webpage
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.ANT
+{
+    order: 2;
+    border-left: black 15px;
+}
+.TMD
+{
+    order: 1;
+}
